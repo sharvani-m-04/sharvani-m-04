@@ -32,12 +32,15 @@ I am a developer focused on the intersection of **Cloud Infrastructure, AI/ML, a
 
 ---
 
-### 📊 GitHub Activity
+### 🌐 Digital Footprint & Neural Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvani-m-04&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharvani-m-04&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharvani-m-04&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvani-m-04&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7,b4f9f8,bb9af7&height=60&section=footer" width="100%"/>
+</p>
